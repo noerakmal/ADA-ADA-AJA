@@ -1,4 +1,4 @@
-EXTINF:-1 tvg-id=" group-title="SPESIAL", TV1-HD
+#EXTINF:-1 tvg-logo="" group-title="SPORT & ENT VIDIO", TV1-HD
 https://link.zozotv.xyz:443/FR433/KKFz7/13
 #EXTINF:-1,TV1-FHD
 https://link.zozotv.xyz:443/FR433/KKFz7/14
