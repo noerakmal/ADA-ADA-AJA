@@ -1,5 +1,5 @@
 ###RADIO##
-#EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="??VOLLY??",MENTARITV
+#EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="VIDIO",MENTARITV
 https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700388818~acl=/hls-p/ingest_8237_*/*~hmac=414503ecebb6d41401a8571e216fc7dfa91cbef94b16c4efef5392de1d7abee5/hls-p/ingest_8237_360p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="??VOLLY??",AJWATVHD
+#EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="VIDIO",AJWATVHD
 https://etslive-2-vidio-com.secureswiftcontent.com/exp=1700389466~acl=/hls-p/ingest_7464_*/*~hmac=d793dad90bd5424ec894540cfa8bee2e48f0ae379326bde6f14d139e6f3049a6/hls-p/ingest_7464_720p/index.m3u8
